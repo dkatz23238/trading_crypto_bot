@@ -1,0 +1,302 @@
+,Unnamed: 0,Symbol,Company,Earnings Date,EPS Estimate,Reported EPS,Surprise(%)
+0,0,CSCO,Cisco Systems Inc,"Nov 14, 2018, 4 PMEST",0.72,-,-
+1,1,CSCO,Cisco Systems Inc,"Aug 15, 2018, 12 PMEST",0.6900000000000001,0.7,1.45
+2,2,CSCO,Cisco Systems Inc,"May 16, 2018, 12 PMEST",0.65,0.66,1.54
+3,3,CSCO,Cisco Systems Inc,"Feb 14, 2018, 4 PMEST",0.59,0.63,6.78
+4,4,CSCO,Cisco Systems Inc,"Nov 15, 2017, 4 PMEST",0.6000000000000001,0.61,1.67
+5,5,CSCO,Cisco Systems Inc,"Aug 16, 2017, 4 PMEST",0.61,0.61,-
+6,6,CSCO,Cisco Systems Inc,"May 17, 2017, 4 PMEST",0.58,0.6,3.45
+7,7,CSCO,Cisco Systems Inc,"Feb 15, 2017, 4 PMEST",0.56,0.57,1.79
+0,0,GILD,Gilead Sciences Inc,"Oct 24, 2018, 4 PMEST",1.61,-,-
+1,1,GILD,Gilead Sciences Inc,"Jul 25, 2018, 12 PMEST",1.56,1.91,22.44
+2,2,GILD,Gilead Sciences Inc,"May 01, 2018, 12 PMEST",1.67,1.48,-11.38
+3,3,GILD,Gilead Sciences Inc,"Feb 06, 2018, 4 PMEST",1.67,1.78,6.59
+4,4,GILD,Gilead Sciences Inc,"Oct 26, 2017, 4 PMEST",2.13,2.27,6.57
+0,0,MCHP,Microchip Technology Inc,"Nov 05, 2018, 4 PMEST",1.74,-,-
+1,1,MCHP,Microchip Technology Inc,"Aug 09, 2018, 12 PMEST",1.48,1.61,8.78
+2,2,MCHP,Microchip Technology Inc,"May 08, 2018, 4 AMEST",1.34,1.4,4.48
+3,3,MCHP,Microchip Technology Inc,"Feb 06, 2018, 4 PMEST",1.35,1.36,0.74
+4,4,MCHP,Microchip Technology Inc,"Nov 06, 2017, 4 PMEST",1.35,1.41,4.44
+5,5,MCHP,Microchip Technology Inc,"Aug 03, 2017, 4 PMEST",1.23,1.31,6.5
+6,6,MCHP,Microchip Technology Inc,"May 09, 2017, 4 PMEST",1.06,1.16,9.43
+7,7,MCHP,Microchip Technology Inc,"Feb 07, 2017, 4 PMEST",0.86,1.05,22.09
+0,0,PTIE,Pain Therapeutics Inc,"Aug 10, 2018, 8 AMEST",-,-,-
+1,1,PTIE,Pain Therapeutics Inc,"May 09, 2018, 8 AMEST",-,-,-
+2,2,PTIE,Pain Therapeutics Inc,"Feb 05, 2018, 8 AMEST",-,-,-
+3,3,PTIE,Pain Therapeutics Inc,"Nov 27, 2017, 8 AMEST",-0.55,-,-
+4,4,PTIE,Pain Therapeutics Inc,"Oct 20, 2017, 8 AMEST",-0.55,-,-
+5,5,PTIE,Pain Therapeutics Inc,"Aug 09, 2017, 8 AMEST",-0.47,-0.64,-36.17
+6,6,PTIE,Pain Therapeutics Inc,"Feb 17, 2017, 8 AMEST",-0.56,-0.42,25
+0,0,CTRP,Ctrip.Com International Ltd,"Sep 05, 2018, 4 PMEST",0.2,-,-
+1,1,CTRP,Ctrip.Com International Ltd,"May 22, 2018, 2 PMEST",0.14,0.51,264.29
+2,2,CTRP,Ctrip.Com International Ltd,"Mar 14, 2018, 4 PMEST",0.16,0.2,25
+3,3,CTRP,Ctrip.Com International Ltd,"Nov 01, 2017, 4 PMEST",0.25,0.43,72
+4,4,CTRP,Ctrip.Com International Ltd,"Aug 30, 2017, 4 PMEST",0.2,0.23,15
+5,5,CTRP,Ctrip.Com International Ltd,"May 10, 2017, 4 PMEST",-0.07,0.17,342.86
+6,6,CTRP,Ctrip.Com International Ltd,"Feb 22, 2017, 4 PMEST",-0.02,0.17,950
+0,0,STX,Seagate Technology PLC,"Oct 22, 2018, 8 AMEST",1.56,-,-
+1,1,STX,Seagate Technology PLC,"Jul 30, 2018, 4 AMEST",1.45,1.62,11.72
+2,2,STX,Seagate Technology PLC,"May 01, 2018, 4 AMEST",1.33,1.46,9.77
+3,3,STX,Seagate Technology PLC,"Jan 29, 2018, 8 AMEST",1.35,1.48,9.63
+4,4,STX,Seagate Technology PLC,"Jan 08, 2018, 4 PMEST",1.35,1.48,9.63
+5,5,STX,Seagate Technology PLC,"Oct 23, 2017, 8 AMEST",0.86,0.96,11.63
+6,6,STX,Seagate Technology PLC,"Jul 25, 2017, 8 AMEST",0.98,0.65,-33.67
+7,7,STX,Seagate Technology PLC,"Apr 26, 2017, 8 AMEST",1.07,1.1,2.8
+0,0,EBAY,eBay Inc,"Oct 16, 2018, 4 PMEST",0.55,-,-
+1,1,EBAY,eBay Inc,"Jul 18, 2018, 12 PMEST",0.51,0.53,3.92
+2,2,EBAY,eBay Inc,"Apr 25, 2018, 12 PMEST",0.53,0.53,-
+3,3,EBAY,eBay Inc,"Jan 31, 2018, 4 PMEST",0.59,0.59,-
+4,4,EBAY,eBay Inc,"Oct 18, 2017, 4 PMEST",0.48,0.48,-
+5,5,EBAY,eBay Inc,"Jul 20, 2017, 4 PMEST",0.45,0.45,-
+6,6,EBAY,eBay Inc,"Apr 19, 2017, 4 PMEST",0.48,0.49,2.08
+0,0,SBUX,Starbucks Corp,"Nov 01, 2018, 4 PMEST",0.61,-,-
+1,1,SBUX,Starbucks Corp,"Jul 26, 2018, 12 PMEST",0.61,0.62,1.64
+2,2,SBUX,Starbucks Corp,"Apr 26, 2018, 12 PMEST",0.53,0.53,-
+3,3,SBUX,Starbucks Corp,"Jan 25, 2018, 4 PMEST",0.5700000000000001,0.65,14.04
+4,4,SBUX,Starbucks Corp,"Nov 02, 2017, 4 PMEST",0.55,0.55,-
+5,5,SBUX,Starbucks Corp,"Jul 27, 2017, 4 PMEST",0.55,0.55,-
+6,6,SBUX,Starbucks Corp,"Apr 27, 2017, 7 PMEST",0.45,0.45,-
+0,0,AMZN,Amazon.com Inc,"Oct 24, 2018, 4 PMEST",3.11,-,-
+1,1,AMZN,Amazon.com Inc,"Jul 26, 2018, 12 PMEST",2.54,5.07,99.61
+2,2,AMZN,Amazon.com Inc,"Apr 26, 2018, 12 PMEST",1.26,3.27,159.52
+3,3,AMZN,Amazon.com Inc,"Feb 01, 2018, 4 PMEST",1.84,2.16,17.39
+4,4,AMZN,Amazon.com Inc,"Oct 26, 2017, 4 PMEST",0.03,0.52,1633.33
+5,5,AMZN,Amazon.com Inc,"Jul 27, 2017, 4 PMEST",1.42,0.4,-71.83
+6,6,AMZN,Amazon.com Inc,"Apr 27, 2017, 4 PMEST",1.09,1.48,35.78
+0,0,INTC,Intel Corp,"Oct 24, 2018, 4 PMEST",1.15,-,-
+1,1,INTC,Intel Corp,"Jul 26, 2018, 4 PMEST",0.96,1.04,8.33
+2,2,INTC,Intel Corp,"Apr 26, 2018, 4 PMEST",0.72,0.87,20.83
+3,3,INTC,Intel Corp,"Jan 25, 2018, 4 PMEST",0.87,1.08,24.14
+4,4,INTC,Intel Corp,"Oct 26, 2017, 4 PMEST",0.8,1.01,26.25
+5,5,INTC,Intel Corp,"Jul 27, 2017, 4 PMEST",0.68,0.72,5.88
+6,6,INTC,Intel Corp,"Apr 27, 2017, 4 PMEST",0.65,0.66,1.54
+0,0,HOLX,Hologic Inc,"Nov 06, 2018, 4 PMEST",0.59,-,-
+1,1,HOLX,Hologic Inc,"Jul 31, 2018, 12 PMEST",0.56,0.58,3.57
+2,2,HOLX,Hologic Inc,"May 02, 2018, 12 PMEST",0.53,0.53,-
+3,3,HOLX,Hologic Inc,"Feb 08, 2018, 4 PMEST",0.5,0.55,10
+4,4,HOLX,Hologic Inc,"Nov 08, 2017, 4 PMEST",0.49,0.5,2.04
+5,5,HOLX,Hologic Inc,"Aug 02, 2017, 4 PMEST",0.49,0.5,2.04
+6,6,HOLX,Hologic Inc,"May 10, 2017, 4 PMEST",0.46,0.5,8.7
+0,0,GLUU,Glu Mobile Inc,"Oct 30, 2018, 4 PMEST",0.07,-,-
+1,1,GLUU,Glu Mobile Inc,"Jul 31, 2018, 12 PMEST",0.05,0.07,40
+2,2,GLUU,Glu Mobile Inc,"May 01, 2018, 12 PMEST",0.02,0.04,100
+3,3,GLUU,Glu Mobile Inc,"Feb 08, 2018, 4 PMEST",-0.03,-0.23,-666.67
+4,4,GLUU,Glu Mobile Inc,"Nov 01, 2017, 4 PMEST",-0.03,-,100
+5,5,GLUU,Glu Mobile Inc,"Aug 01, 2017, 4 PMEST",-0.1,-0.04,60
+6,6,GLUU,Glu Mobile Inc,"May 03, 2017, 4 PMEST",-0.07,-0.01,85.71
+7,7,GLUU,Glu Mobile Inc,"Feb 08, 2017, 4 PMEST",-0.07,-0.01,85.71
+0,0,GERN,Geron Corp,"Jul 31, 2018, 4 PMEST",-0.04,-0.04,-
+1,1,GERN,Geron Corp,"Jul 31, 2018, 12 PMEST",-0.04,-0.04,-
+2,2,GERN,Geron Corp,"Mar 19, 2018, 4 AMEST",-0.05,-0.05,-
+3,3,GERN,Geron Corp,"May 05, 2017, 4 PMEST",-0.05,-0.05,-
+4,4,GERN,Geron Corp,"Mar 01, 2017, 4 PMEST",-0.06,-0.05,16.67
+0,0,AGNC,AGNC Investment Corp,"Oct 23, 2018, 4 PMEST",0.59,-,-
+1,1,AGNC,AGNC Investment Corp,"Jul 25, 2018, 12 PMEST",0.61,0.63,3.28
+2,2,AGNC,AGNC Investment Corp,"Apr 25, 2018, 12 PMEST",0.6000000000000001,0.6,-
+3,3,AGNC,AGNC Investment Corp,"Jan 31, 2018, 4 PMEST",0.61,0.63,3.28
+4,4,AGNC,AGNC Investment Corp,"Oct 25, 2017, 4 PMEST",0.61,0.62,1.64
+5,5,AGNC,AGNC Investment Corp,"Jul 26, 2017, 4 PMEST",0.6000000000000001,0.67,11.67
+6,6,AGNC,AGNC Investment Corp,"Apr 26, 2017, 4 PMEST",0.56,0.64,14.29
+0,0,BIDU,Baidu Inc,"Oct 24, 2018, 4 PMEST",2.53,-,-
+1,1,BIDU,Baidu Inc,"Jul 31, 2018, 2 PMEST",2.41,3.06,26.97
+2,2,BIDU,Baidu Inc,"Apr 26, 2018, 12 PMEST",1.53,1.89,23.53
+3,3,BIDU,Baidu Inc,"Feb 13, 2018, 4 PMEST",2.1,2.35,11.9
+4,4,BIDU,Baidu Inc,"Oct 26, 2017, 4 PMEST",2.13,4.09,92.02
+5,5,BIDU,Baidu Inc,"Jul 27, 2017, 4 PMEST",1.55,2.43,56.77
+6,6,BIDU,Baidu Inc,"Apr 27, 2017, 4 PMEST",0.91,1.03,13.19
+7,7,BIDU,Baidu Inc,"Feb 23, 2017, 4 PMEST",0.91,1.94,113.19
+0,0,MSFT,Microsoft Corp,"Oct 24, 2018, 4 PMEST",0.96,-,-
+1,1,MSFT,Microsoft Corp,"Jul 19, 2018, 12 PMEST",1.08,1.13,4.63
+2,2,MSFT,Microsoft Corp,"Apr 26, 2018, 12 PMEST",0.85,0.95,11.76
+3,3,MSFT,Microsoft Corp,"Apr 23, 2018, 6 AMEST",-,-,-
+4,4,MSFT,Microsoft Corp,"Jan 31, 2018, 4 PMEST",0.87,0.96,10.34
+5,5,MSFT,Microsoft Corp,"Oct 26, 2017, 4 PMEST",0.72,0.84,16.67
+6,6,MSFT,Microsoft Corp,"Jul 20, 2017, 4 PMEST",0.71,1.06,49.3
+7,7,MSFT,Microsoft Corp,"Apr 27, 2017, 4 PMEST",0.7,0.73,4.29
+0,0,AMAT,Applied Materials Inc,"Nov 15, 2018, 4 PMEST",1.16,-,-
+1,1,AMAT,Applied Materials Inc,"Nov 15, 2018, 5 AMEST",1.16,-,-
+2,2,AMAT,Applied Materials Inc,"Aug 16, 2018, 12 PMEST",1.17,1.2,2.56
+3,3,AMAT,Applied Materials Inc,"May 17, 2018, 12 PMEST",1.14,1.22,7.02
+4,4,AMAT,Applied Materials Inc,"Feb 14, 2018, 4 PMEST",0.98,1.06,8.16
+5,5,AMAT,Applied Materials Inc,"Nov 16, 2017, 4 PMEST",0.91,0.93,2.2
+6,6,AMAT,Applied Materials Inc,"Aug 17, 2017, 4 PMEST",0.84,0.86,2.38
+7,7,AMAT,Applied Materials Inc,"May 18, 2017, 4 PMEST",0.76,0.79,3.95
+8,8,AMAT,Applied Materials Inc,"Feb 15, 2017, 4 PMEST",0.66,0.67,1.52
+0,0,ATVI,Activision Blizzard Inc,"Oct 31, 2018, 4 PMEST",0.5,-,-
+1,1,ATVI,Activision Blizzard Inc,"Aug 02, 2018, 12 PMEST",0.35000000000000003,0.41,17.14
+2,2,ATVI,Activision Blizzard Inc,"May 03, 2018, 4 PMEST",0.35000000000000003,0.38,8.57
+3,3,ATVI,Activision Blizzard Inc,"Feb 08, 2018, 4 PMEST",0.93,0.94,1.08
+4,4,ATVI,Activision Blizzard Inc,"Nov 02, 2017, 4 PMEST",0.49,0.6,22.45
+5,5,ATVI,Activision Blizzard Inc,"Aug 03, 2017, 4 PMEST",0.30000000000000004,0.43,43.33
+6,6,ATVI,Activision Blizzard Inc,"May 04, 2017, 4 PMEST",0.21,0.31,47.62
+7,7,ATVI,Activision Blizzard Inc,"Feb 09, 2017, 4 PMEST",0.73,0.92,26.03
+0,0,MYL,Mylan NV,"Nov 05, 2018, 8 AMEST",1.21,-,-
+1,1,MYL,Mylan NV,"Aug 08, 2018, 4 AMEST",1.22,1.07,-12.3
+2,2,MYL,Mylan NV,"May 09, 2018, 3 AMEST",0.96,0.96,-
+3,3,MYL,Mylan NV,"Feb 28, 2018, 4 PMEST",1.41,1.43,1.42
+4,4,MYL,Mylan NV,"Nov 06, 2017, 8 AMEST",1.2,1.1,-8.33
+5,5,MYL,Mylan NV,"Aug 09, 2017, 8 AMEST",1.16,1.1,-5.17
+6,6,MYL,Mylan NV,"May 10, 2017, 8 AMEST",0.92,0.93,1.09
+7,7,MYL,Mylan NV,"Mar 01, 2017, 8 AMEST",1.42,1.57,10.56
+0,0,NVDA,NVIDIA Corp,"Nov 07, 2018, 4 PMEST",1.82,-,-
+1,1,NVDA,NVIDIA Corp,"Aug 16, 2018, 12 PMEST",1.66,1.76,6.02
+2,2,NVDA,NVIDIA Corp,"May 10, 2018, 12 PMEST",1.48,1.98,33.78
+3,3,NVDA,NVIDIA Corp,"Feb 08, 2018, 4 PMEST",1.17,1.78,52.14
+4,4,NVDA,NVIDIA Corp,"Nov 09, 2017, 4 PMEST",0.94,1.33,41.49
+5,5,NVDA,NVIDIA Corp,"Aug 10, 2017, 4 PMEST",0.7000000000000001,0.92,31.43
+6,6,NVDA,NVIDIA Corp,"May 09, 2017, 4 PMEST",0.66,0.79,19.7
+7,7,NVDA,NVIDIA Corp,"Feb 09, 2017, 4 PMEST",0.8300000000000001,0.99,19.28
+0,0,MRVL,Marvell Technology Group Ltd,"Sep 06, 2018, 4 PMEST",0.34,-,-
+1,1,MRVL,Marvell Technology Group Ltd,"May 31, 2018, 12 PMEST",0.31,0.32,3.23
+2,2,MRVL,Marvell Technology Group Ltd,"Mar 08, 2018, 4 PMEST",0.31,0.32,3.23
+3,3,MRVL,Marvell Technology Group Ltd,"Nov 28, 2017, 4 PMEST",0.33,0.34,3.03
+4,4,MRVL,Marvell Technology Group Ltd,"Aug 24, 2017, 4 PMEST",0.28,0.3,7.14
+5,5,MRVL,Marvell Technology Group Ltd,"May 25, 2017, 4 PMEST",0.21,0.24,14.29
+0,0,CMCSA,Comcast Corp,"Oct 24, 2018, 8 AMEST",0.63,-,-
+1,1,CMCSA,Comcast Corp,"Jul 26, 2018, 3 AMEST",0.6000000000000001,0.65,8.33
+2,2,CMCSA,Comcast Corp,"Apr 25, 2018, 2 AMEST",0.59,0.62,5.08
+3,3,CMCSA,Comcast Corp,"Jan 24, 2018, 8 AMEST",0.47,0.49,4.26
+4,4,CMCSA,Comcast Corp,"Oct 26, 2017, 8 AMEST",0.5,0.52,4
+5,5,CMCSA,Comcast Corp,"Jul 27, 2017, 8 AMEST",0.48,0.52,8.33
+6,6,CMCSA,Comcast Corp,"Apr 27, 2017, 8 AMEST",0.45,0.53,17.78
+0,0,SIRI,Sirius XM Holdings Inc,"Oct 23, 2018, 8 AMEST",0.06,-,-
+1,1,SIRI,Sirius XM Holdings Inc,"Jul 25, 2018, 3 AMEST",0.06,0.06,-
+2,2,SIRI,Sirius XM Holdings Inc,"Apr 25, 2018, 3 AMEST",0.05,0.06,20
+3,3,SIRI,Sirius XM Holdings Inc,"Jan 31, 2018, 8 AMEST",0.05,0.03,-40
+4,4,SIRI,Sirius XM Holdings Inc,"Oct 25, 2017, 8 AMEST",0.04,0.06,50
+5,5,SIRI,Sirius XM Holdings Inc,"Jul 27, 2017, 8 AMEST",0.04,0.04,-
+6,6,SIRI,Sirius XM Holdings Inc,"Apr 27, 2017, 8 AMEST",0.04,0.04,-
+0,0,CELG,Celgene Corp,"Oct 24, 2018, 8 AMEST",2.22,-,-
+1,1,CELG,Celgene Corp,"Jul 26, 2018, 3 AMEST",2.11,2.16,2.37
+2,2,CELG,Celgene Corp,"May 04, 2018, 3 AMEST",1.96,2.05,4.59
+3,3,CELG,Celgene Corp,"Jan 25, 2018, 8 AMEST",1.97,2,1.52
+4,4,CELG,Celgene Corp,"Oct 26, 2017, 8 AMEST",1.87,1.91,2.14
+5,5,CELG,Celgene Corp,"Jul 27, 2017, 8 AMEST",1.78,1.82,2.25
+6,6,CELG,Celgene Corp,"Apr 27, 2017, 8 AMEST",1.63,1.68,3.07
+0,0,SYMC,Symantec Corp,"Oct 30, 2018, 4 PMEST",0.33,-,-
+1,1,SYMC,Symantec Corp,"Aug 02, 2018, 12 PMEST",0.33,0.34,3.03
+2,2,SYMC,Symantec Corp,"May 10, 2018, 12 PMEST",0.39,0.46,17.95
+3,3,SYMC,Symantec Corp,"Jan 31, 2018, 4 PMEST",0.44,0.49,11.36
+4,4,SYMC,Symantec Corp,"Nov 01, 2017, 4 PMEST",0.43,0.4,-6.98
+5,5,SYMC,Symantec Corp,"Aug 02, 2017, 4 PMEST",0.31,0.33,6.45
+6,6,SYMC,Symantec Corp,"May 10, 2017, 4 PMEST",0.28,0.28,-
+0,0,NFLX,Netflix Inc,"Oct 15, 2018, 7 PMEST",0.68,-,-
+1,1,NFLX,Netflix Inc,"Jul 16, 2018, 12 PMEST",0.79,0.85,7.59
+2,2,NFLX,Netflix Inc,"Apr 16, 2018, 12 PMEST",0.64,0.64,-
+3,3,NFLX,Netflix Inc,"Jan 22, 2018, 11 AMEST",0.41,0.41,-
+4,4,NFLX,Netflix Inc,"Oct 16, 2017, 4 PMEST",0.32,0.29,-9.38
+5,5,NFLX,Netflix Inc,"Jul 17, 2017, 4 PMEST",0.15,0.15,-
+6,6,NFLX,Netflix Inc,"Apr 17, 2017, 4 PMEST",0.37,0.4,8.11
+0,0,FLEX,Flex Ltd,"Oct 24, 2018, 4 PMEST",0.28,-,-
+1,1,FLEX,Flex Ltd,"Jul 26, 2018, 12 PMEST",0.24,0.24,-
+2,2,FLEX,Flex Ltd,"Apr 26, 2018, 12 PMEST",0.30000000000000004,0.28,-6.67
+3,3,FLEX,Flex Ltd,"Jan 25, 2018, 4 PMEST",0.30000000000000004,0.31,3.33
+4,4,FLEX,Flex Ltd,"Oct 26, 2017, 4 PMEST",0.26,0.27,3.85
+5,5,FLEX,Flex Ltd,"Jul 27, 2017, 4 PMEST",0.26,0.24,-7.69
+6,6,FLEX,Flex Ltd,"Apr 27, 2017, 4 PMEST",0.29,0.29,-
+0,0,FITB,Fifth Third Bancorp,"Oct 22, 2018, 8 AMEST",0.63,-,-
+1,1,FITB,Fifth Third Bancorp,"Jul 19, 2018, 2 AMEST",0.5700000000000001,0.63,10.53
+2,2,FITB,Fifth Third Bancorp,"Apr 24, 2018, 2 AMEST",0.48,0.57,18.75
+3,3,FITB,Fifth Third Bancorp,"Jan 23, 2018, 8 AMEST",0.48,0.48,-
+4,4,FITB,Fifth Third Bancorp,"Oct 24, 2017, 8 AMEST",0.47,1.35,187.23
+5,5,FITB,Fifth Third Bancorp,"Jul 21, 2017, 8 AMEST",0.43,0.45,4.65
+6,6,FITB,Fifth Third Bancorp,"Apr 25, 2017, 8 AMEST",0.37,0.38,2.7
+0,0,DISCA,Discovery Inc,"Oct 31, 2018, 8 AMEST",0.6000000000000001,-,-
+1,1,DISCA,Discovery Inc,"Aug 07, 2018, 3 AMEST",0.86,0.66,-23.26
+2,2,DISCA,Discovery Inc,"May 08, 2018, 3 AMEST",0.42,0.16,-61.9
+3,3,DISCA,Discovery Inc,"Feb 27, 2018, 2 AMEST",0.41,0.37,-9.76
+4,4,DISCA,Discovery Communications Inc,"Nov 02, 2017, 8 AMEST",0.54,0.43,-20.37
+5,5,DISCA,Discovery Communications Inc,"Jul 31, 2017, 8 AMEST",0.72,0.68,-5.56
+6,6,DISCA,Discovery Communications Inc,"May 09, 2017, 3 AMEST",0.45,0.41,-8.89
+7,7,DISCA,Discovery Communications Inc,"Feb 14, 2017, 2 AMEST",0.47,0.52,10.64
+0,0,SIGM,Sigma Designs Inc,"Jun 14, 2018, 8 AMEST",-0.02,-,-
+1,1,SIGM,Sigma Designs Inc,"Apr 20, 2018, 8 AMEST",-0.21,-0.57,-171.43
+2,2,SIGM,Sigma Designs Inc,"Dec 07, 2017, 4 PMEST",-0.15,-0.25,-66.67
+3,3,SIGM,Sigma Designs Inc,"Sep 07, 2017, 4 PMEST",-0.19,-0.23,-21.05
+4,4,SIGM,Sigma Designs Inc,"Jun 06, 2017, 4 PMEST",-0.21,-0.25,-19.05
+5,5,SIGM,Sigma Designs Inc,"Mar 29, 2017, 4 PMEST",-0.16,-0.16,-
+0,0,GPRO,GoPro Inc,"Aug 02, 2018, 12 PMEST",-0.22,-0.15,31.82
+1,1,GPRO,GoPro Inc,"May 03, 2018, 12 PMEST",-0.38,-0.34,10.53
+2,2,GPRO,GoPro Inc,"Feb 01, 2018, 4 PMEST",-0.11,-0.30000000000000004,-172.73
+3,3,GPRO,GoPro Inc,"Jan 08, 2018, 4 PMEST",-0.11,-0.30000000000000004,-172.73
+4,4,GPRO,GoPro Inc,"Nov 01, 2017, 4 PMEST",0.02,0.15,650.0
+5,5,GPRO,GoPro Inc,"Aug 03, 2017, 4 PMEST",-0.25,-0.09,64.0
+6,6,GPRO,GoPro Inc,"Apr 27, 2017, 4 PMEST",-0.45,-0.44,2.22
+0,0,QCOM,Qualcomm Inc,"Nov 07, 2018, 4 PMEST",0.8200000000000001,-,-
+1,1,QCOM,Qualcomm Inc,"Jul 25, 2018, 12 PMEST",0.71,1.01,42.25
+2,2,QCOM,Qualcomm Inc,"Apr 25, 2018, 12 PMEST",0.68,0.8,17.65
+3,3,QCOM,Qualcomm Inc,"Jan 31, 2018, 4 PMEST",0.91,0.98,7.69
+4,4,QCOM,Qualcomm Inc,"Nov 01, 2017, 4 PMEST",0.81,0.92,13.58
+5,5,QCOM,Qualcomm Inc,"Jul 19, 2017, 4 PMEST",0.81,0.83,2.47
+6,6,QCOM,Qualcomm Inc,"Apr 19, 2017, 4 PMEST",1.2,1.34,11.67
+0,0,ENDP,Endo International PLC,"Nov 07, 2018, 8 AMEST",0.59,-,-
+1,1,ENDP,Endo International PLC,"Aug 08, 2018, 3 AMEST",0.54,0.76,40.74
+2,2,ENDP,Endo International PLC,"May 08, 2018, 2 AMEST",0.55,0.67,21.82
+3,3,ENDP,Endo International PLC,"Feb 27, 2018, 8 AMEST",0.61,0.77,26.23
+4,4,ENDP,Endo International PLC,"Nov 09, 2017, 8 AMEST",0.71,0.91,28.17
+5,5,ENDP,Endo International PLC,"Aug 08, 2017, 8 AMEST",0.73,0.93,27.4
+6,6,ENDP,Endo International PLC,"May 09, 2017, 8 AMEST",1.1,1.23,11.82
+0,0,HBAN,Huntington Bancshares Inc,"Oct 23, 2018, 8 AMEST",0.32,-,-
+1,1,HBAN,Huntington Bancshares Inc,"Jul 25, 2018, 3 AMEST",0.29,0.3,3.45
+2,2,HBAN,Huntington Bancshares Inc,"Apr 24, 2018, 3 AMEST",0.28,0.28,-
+3,3,HBAN,Huntington Bancshares Inc,"Jan 23, 2018, 8 AMEST",0.26,0.26,-
+4,4,HBAN,Huntington Bancshares Inc,"Oct 25, 2017, 8 AMEST",0.25,0.23,-8
+5,5,HBAN,Huntington Bancshares Inc,"Jul 21, 2017, 8 AMEST",0.23,0.23,-
+6,6,HBAN,Huntington Bancshares Inc,"Apr 19, 2017, 8 AMEST",0.21,0.17,-19.05
+0,0,PBCT,People's United Financial Inc,"Oct 18, 2018, 8 AMEST",0.34,-,-
+1,1,PBCT,People's United Financial Inc,"Jul 19, 2018, 12 PMEST",0.32,0.31,-3.13
+2,2,PBCT,People's United Financial Inc,"Apr 19, 2018, 8 AMEST",0.30000000000000004,0.3,-
+3,3,PBCT,People's United Financial Inc,"Jan 18, 2018, 4 PMEST",0.27,0.31,14.81
+4,4,PBCT,People's United Financial Inc,"Oct 19, 2017, 4 PMEST",0.25,0.26,4
+5,5,PBCT,People's United Financial Inc,"Jul 20, 2017, 4 PMEST",0.23,0.19,-17.39
+6,6,PBCT,People's United Financial Inc,"Apr 20, 2017, 8 AMEST",0.22,0.22,-
+0,0,NWSA,News Corp,"Nov 07, 2018, 4 PMEST",0.06,-,-
+1,1,NWSA,News Corp,"Aug 09, 2018, 12 PMEST",0.06,0.08,33.33
+2,2,NWSA,News Corp,"May 10, 2018, 12 PMEST",0.06,0.06,-
+3,3,NWSA,News Corp,"Feb 08, 2018, 4 PMEST",0.19,0.24,26.32
+4,4,NWSA,News Corp,"Nov 09, 2017, 4 PMEST",0.01,0.07,600
+0,0,GPOR,Gulfport Energy Corp,"Oct 30, 2018, 4 PMEST",0.33,-,-
+1,1,GPOR,Gulfport Energy Corp,"Aug 01, 2018, 12 PMEST",0.32,0.33,3.13
+2,2,GPOR,Gulfport Energy Corp,"May 08, 2018, 12 PMEST",0.42,0.56,33.33
+3,3,GPOR,Gulfport Energy Corp,"Feb 21, 2018, 4 PMEST",0.39,0.45,15.38
+4,4,GPOR,Gulfport Energy Corp,"Nov 01, 2017, 4 PMEST",0.33,0.32,-3.03
+5,5,GPOR,Gulfport Energy Corp,"Aug 08, 2017, 4 PMEST",0.27,0.33,22.22
+6,6,GPOR,Gulfport Energy Corp,"May 08, 2017, 4 PMEST",0.18,0.32,77.78
+7,7,GPOR,Gulfport Energy Corp,"Feb 13, 2017, 4 PMEST",0.22,0.34,54.55
+0,0,AAPL,Apple Inc,"Oct 31, 2018, 4 PMEST",2.76,-,-
+1,1,AAPL,Apple Inc,"Jul 31, 2018, 12 PMEST",2.18,2.34,7.34
+2,2,AAPL,Apple Inc,"May 01, 2018, 12 PMEST",2.67,2.73,2.25
+3,3,AAPL,Apple Inc,"Feb 01, 2018, 4 PMEST",3.86,3.89,0.78
+4,4,AAPL,Apple Inc,"Nov 02, 2017, 4 PMEST",1.87,2.07,10.7
+5,5,AAPL,Apple Inc,"Aug 01, 2017, 4 PMEST",1.57,1.67,6.37
+6,6,AAPL,Apple Inc,"May 02, 2017, 4 PMEST",2.02,2.1,3.96
+0,0,TNDM,Tandem Diabetes Care Inc,"Oct 24, 2018, 4 PMEST",-0.37,-,-
+1,1,TNDM,Tandem Diabetes Care Inc,"Jul 30, 2018, 12 PMEST",-0.35000000000000003,-1.17,-234.29
+2,2,TNDM,Tandem Diabetes Care Inc,"Apr 26, 2018, 12 PMEST",-0.59,-1.82,-208.47
+3,3,TNDM,Tandem Diabetes Care Inc,"Apr 10, 2018, 4 PMEST",-0.59,-1.82,-208.47
+4,4,TNDM,Tandem Diabetes Care Inc,"Mar 01, 2018, 4 PMEST",-1.3,-1.22,6.15
+5,5,TNDM,Tandem Diabetes Care Inc,"Jan 09, 2018, 4 PMEST",-1.3,-1.22,6.15
+6,6,TNDM,Tandem Diabetes Care Inc,"Oct 26, 2017, 4 PMEST",-3.74,-3.59,4.01
+7,7,TNDM,Tandem Diabetes Care Inc,"Jul 27, 2017, 4 PMEST",-4.75,-4.3,9.47
+8,8,TNDM,Tandem Diabetes Care Inc,"Apr 27, 2017, 4 PMEST",-0.63,-0.77,-22.22
+9,9,TNDM,Tandem Diabetes Care Inc,"Mar 08, 2017, 4 PMEST",-0.65,-0.56,13.85
+0,0,CTSH,Cognizant Technology Solutions Corp,"Oct 30, 2018, 8 AMEST",1.13,-,-
+1,1,CTSH,Cognizant Technology Solutions Corp,"Aug 02, 2018, 8 AMEST",1.1,1.19,8.18
+2,2,CTSH,Cognizant Technology Solutions Corp,"May 07, 2018, 2 AMEST",1.06,1.06,-
+3,3,CTSH,Cognizant Technology Solutions Corp,"Feb 07, 2018, 8 AMEST",0.97,1.03,6.19
+4,4,CTSH,Cognizant Technology Solutions Corp,"Nov 01, 2017, 8 AMEST",0.96,0.98,2.08
+5,5,CTSH,Cognizant Technology Solutions Corp,"Aug 03, 2017, 8 AMEST",0.91,0.93,2.2
+6,6,CTSH,Cognizant Technology Solutions Corp,"May 05, 2017, 8 AMEST",0.8300000000000001,0.84,1.2
+7,7,CTSH,Cognizant Technology Solutions Corp,"Feb 08, 2017, 8 AMEST",0.86,0.87,1.16
+0,0,NLST,Netlist Inc,"Jul 31, 2018, 1 PMEST",-0.02,-0.04,-100
+1,1,NLST,Netlist Inc,"May 15, 2018, 1 PMEST",-0.03,-0.05,-66.67
+2,2,NLST,Netlist Inc,"Mar 27, 2018, 1 PMEST",-0.04,-0.04,-
+3,3,NLST,Netlist Inc,"May 18, 2017, 6 AMEST",-0.06,-0.05,16.67
+4,4,NLST,Netlist Inc,"Mar 30, 2017, 12 PMEST",-0.07,-0.06,14.29
+0,0,LRCX,Lam Research Corp,"Oct 15, 2018, 4 PMEST",3.21,-,-
+1,1,LRCX,Lam Research Corp,"Jul 26, 2018, 12 PMEST",4.94,5.31,7.49
+2,2,LRCX,Lam Research Corp,"Apr 17, 2018, 4 PMEST",4.38,4.79,9.36
+3,3,LRCX,Lam Research Corp,"Jan 24, 2018, 4 PMEST",3.68,4.34,17.93
+4,4,LRCX,Lam Research Corp,"Oct 17, 2017, 4 PMEST",3.28,3.46,5.49
+5,5,LRCX,Lam Research Corp,"Jul 26, 2017, 4 PMEST",3.03,3.11,2.64
+6,6,LRCX,Lam Research Corp,"Apr 18, 2017, 4 PMEST",2.55,2.8,9.8
